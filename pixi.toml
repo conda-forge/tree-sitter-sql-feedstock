@@ -7,7 +7,7 @@
 
 [project]
 name = "tree-sitter-sql-feedstock"
-version = "3.52.2"  # conda-smithy version used to generate this file
+version = "3.52.3"  # conda-smithy version used to generate this file
 description = "Pixi configuration for conda-forge/tree-sitter-sql-feedstock"
 authors = ["@conda-forge/tree-sitter-sql"]
 channels = ["conda-forge"]
